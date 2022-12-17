@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Open Stack App</string>
+    <string name="heroes_name">Nama Open Stack</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardiew">with Cardiew</string>
+    <string name="favorite">170 Likes</string>
+    <string name="share">Bagikan</string>
+    <string name="my_name">Maulana Ibrahim Hanifah</string>
+    <string name="link">fkdk.rosma.ac.id</string>
+</resources>
